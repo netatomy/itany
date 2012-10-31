@@ -5,11 +5,10 @@
 
 package passwordstore.swingx.text;
 
-import java.awt.Container;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
-import javax.swing.JTabbedPane;
+
 import javax.swing.event.CaretEvent;
 import javax.swing.event.CaretListener;
 import javax.swing.event.UndoableEditEvent;
@@ -24,6 +23,7 @@ import javax.swing.undo.AbstractUndoableEdit;
 import javax.swing.undo.CannotRedoException;
 import javax.swing.undo.CannotUndoException;
 import javax.swing.undo.UndoableEdit;
+
 import passwordstore.swingx.Utilities;
 
 /**

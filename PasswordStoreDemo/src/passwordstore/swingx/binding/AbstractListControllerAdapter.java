@@ -10,6 +10,7 @@ import java.beans.PropertyChangeListener;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.List;
+
 import passwordstore.collectionsx.ObservableList;
 import passwordstore.collectionsx.ObservableListListener;
 

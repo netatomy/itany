@@ -8,6 +8,7 @@ package passwordstore.swingx;
 import java.awt.Component;
 import java.awt.Container;
 import java.util.ResourceBundle;
+
 import javax.swing.JTabbedPane;
 import javax.swing.UIManager;
 

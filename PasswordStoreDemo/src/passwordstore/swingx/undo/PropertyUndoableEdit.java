@@ -8,9 +8,11 @@ package passwordstore.swingx.undo;
 import java.beans.IntrospectionException;
 import java.beans.PropertyDescriptor;
 import java.lang.reflect.InvocationTargetException;
+
 import javax.swing.undo.AbstractUndoableEdit;
 import javax.swing.undo.CannotRedoException;
 import javax.swing.undo.CannotUndoException;
+
 import passwordstore.swingx.app.Application;
 
 /**

@@ -5,26 +5,22 @@
 
 package passwordstore.swingx;
 
-import com.sun.corba.se.impl.javax.rmi.CORBA.Util;
 import java.awt.Dimension;
-import java.awt.Graphics;
 import java.awt.Window;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
-import java.util.ResourceBundle;
+
 import javax.swing.ButtonGroup;
 import javax.swing.JMenu;
-import javax.swing.JMenuItem;
-import javax.swing.JPopupMenu;
 import javax.swing.JRadioButtonMenuItem;
 import javax.swing.LookAndFeel;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
+
 import passwordstore.swingx.app.Application;
-import passwordstore.ui.PasswordStoreApplication;
 
 /**
  * A menu providing entries for the currently installed look and feels.

@@ -6,6 +6,7 @@
 package passwordstore.swingx;
 
 import java.awt.event.KeyEvent;
+
 import javax.swing.AbstractButton;
 import javax.swing.Action;
 import javax.swing.JMenu;

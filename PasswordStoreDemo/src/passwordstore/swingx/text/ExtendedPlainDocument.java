@@ -7,6 +7,7 @@ package passwordstore.swingx.text;
 
 import java.util.LinkedList;
 import java.util.List;
+
 import javax.swing.event.CaretEvent;
 import javax.swing.event.CaretListener;
 import javax.swing.event.UndoableEditEvent;

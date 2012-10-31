@@ -7,11 +7,11 @@ package passwordstore.swingx.app;
 
 import java.awt.Window;
 import java.util.MissingResourceException;
+
 import javax.swing.GroupLayout;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.LayoutStyle;
 
 /**
  * Simple about box implementation. Pulls name and icon from resources.

@@ -6,7 +6,9 @@
 package passwordstore.ui;
 
 import java.util.Date;
+
 import javax.swing.JTable;
+
 import passwordstore.model.PasswordEntry;
 import passwordstore.swingx.app.Application;
 import passwordstore.swingx.binding.AbstractJTableListControllerAdapter;

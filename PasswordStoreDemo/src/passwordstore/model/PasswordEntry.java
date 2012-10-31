@@ -6,6 +6,7 @@ package passwordstore.model;
 
 import java.io.Serializable;
 import java.net.URI;
+
 import passwordstore.beansx.BeanBase;
 
 /**

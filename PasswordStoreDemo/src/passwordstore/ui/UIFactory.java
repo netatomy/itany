@@ -6,6 +6,7 @@
 package passwordstore.ui;
 
 import java.awt.datatransfer.DataFlavor;
+
 import javax.swing.JComponent;
 import javax.swing.UIManager;
 import javax.swing.event.CaretEvent;
@@ -13,6 +14,7 @@ import javax.swing.event.CaretListener;
 import javax.swing.plaf.ComponentUI;
 import javax.swing.text.Caret;
 import javax.swing.text.JTextComponent;
+
 import passwordstore.swingx.CutCopyPasteHelper;
 
 /**

@@ -6,9 +6,8 @@
 package passwordstore.swingx.binding;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import javax.swing.AbstractListModel;
+
 import javax.swing.JTable;
 import javax.swing.ListSelectionModel;
 import javax.swing.RowSorter;

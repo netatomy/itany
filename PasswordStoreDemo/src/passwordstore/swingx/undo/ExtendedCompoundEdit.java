@@ -6,7 +6,6 @@
 package passwordstore.swingx.undo;
 
 import javax.swing.undo.CompoundEdit;
-import passwordstore.ui.*;
 
 /**
  * A CompoundEdit that maintains a reference to an ExtendedUndoManager. When

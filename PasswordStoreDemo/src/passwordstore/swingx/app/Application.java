@@ -14,7 +14,6 @@ import java.awt.Insets;
 import java.awt.Toolkit;
 import java.awt.event.PaintEvent;
 import java.lang.ref.WeakReference;
-import java.lang.reflect.Constructor;
 import java.text.MessageFormat;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -26,6 +25,7 @@ import java.util.ResourceBundle;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.ThreadFactory;
 import java.util.prefs.Preferences;
+
 import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;

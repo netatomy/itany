@@ -5,20 +5,15 @@
 
 package passwordstore.swingx.binding;
 
-import java.beans.PropertyChangeEvent;
-import java.beans.PropertyChangeListener;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
 import javax.swing.AbstractListModel;
 import javax.swing.DefaultListModel;
 import javax.swing.JList;
-import javax.swing.ListModel;
 import javax.swing.ListSelectionModel;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
-import passwordstore.collectionsx.ObservableList;
-import passwordstore.collectionsx.ObservableListListener;
 
 /**
  * An AbstractListControllerAdapter that targets a JList.

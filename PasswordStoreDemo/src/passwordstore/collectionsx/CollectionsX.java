@@ -6,18 +6,10 @@
 package passwordstore.collectionsx;
 
 import java.util.AbstractList;
-import java.util.AbstractMap;
-import java.util.AbstractSet;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Iterator;
 import java.util.List;
-import java.util.ListIterator;
-import java.util.Map;
-import java.util.NoSuchElementException;
-import java.util.Set;
 import java.util.concurrent.CopyOnWriteArrayList;
-import javax.security.auth.kerberos.KerberosKey;
 
 /**
  * Convenience methods for creating an ObservableList implementation wrapping

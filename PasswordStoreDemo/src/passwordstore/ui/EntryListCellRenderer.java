@@ -8,6 +8,7 @@ package passwordstore.ui;
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Image;
+
 import javax.swing.GroupLayout;
 import javax.swing.Icon;
 import javax.swing.ImageIcon;
@@ -19,6 +20,7 @@ import javax.swing.SwingConstants;
 import javax.swing.border.CompoundBorder;
 import javax.swing.border.EmptyBorder;
 import javax.swing.border.LineBorder;
+
 import passwordstore.model.PasswordEntry;
 import passwordstore.swingx.ImageCache;
 

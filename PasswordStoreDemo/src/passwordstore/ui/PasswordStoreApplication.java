@@ -4,14 +4,15 @@
  */
 package passwordstore.ui;
 
-import java.util.ResourceBundle;
-import javax.swing.ImageIcon;
-import javax.swing.UIManager;
-import passwordstore.swingx.app.Application;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
+import java.util.ResourceBundle;
+
+import javax.swing.ImageIcon;
 import javax.swing.JFrame;
-import passwordstore.ui.UIFactory;
+import javax.swing.UIManager;
+
+import passwordstore.swingx.app.Application;
 
 /**
  * PasswordStore's Application subclass. Does very little other than start up

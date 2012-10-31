@@ -12,8 +12,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
+
 import javax.swing.AbstractAction;
 import javax.swing.JTextField;
+
 import passwordstore.model.PasswordEntry;
 import passwordstore.swingx.Utilities;
 import passwordstore.swingx.binding.ListController;

@@ -6,7 +6,9 @@ package passwordstore.swingx;
 
 import java.awt.event.ActionEvent;
 import java.lang.reflect.Method;
+
 import javax.swing.AbstractAction;
+
 import passwordstore.swingx.app.Application;
 
 /**

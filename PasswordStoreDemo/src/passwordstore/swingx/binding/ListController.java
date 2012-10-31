@@ -6,13 +6,13 @@
 package passwordstore.swingx.binding;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+
+import passwordstore.beansx.BeanBase;
 import passwordstore.collectionsx.CollectionsX;
 import passwordstore.collectionsx.ObservableList;
 import passwordstore.collectionsx.ObservableListListener;
-import passwordstore.beansx.BeanBase;
 
 /**
  * ListController manages a List of entries, a selection of the entries,
